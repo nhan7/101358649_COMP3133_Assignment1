@@ -1,0 +1,21 @@
+{
+  "name": "101358649_comp3133_assignment1",
+  "version": "1.0.0",
+  "description": "Assignment 1 for fullstack II",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1",
+    "mongoose": "^8.1.2"
+  }
+}
